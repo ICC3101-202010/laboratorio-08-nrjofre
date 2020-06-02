@@ -1,0 +1,11 @@
+D:\Documentos\GitHub\laboratorio-08-nrjofre\Lab8\Lab8\bin\Debug\Lab8.exe.config
+D:\Documentos\GitHub\laboratorio-08-nrjofre\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\Documentos\GitHub\laboratorio-08-nrjofre\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\Documentos\GitHub\laboratorio-08-nrjofre\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+D:\Documentos\GitHub\laboratorio-08-nrjofre\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+D:\Documentos\GitHub\laboratorio-08-nrjofre\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+D:\Documentos\GitHub\laboratorio-08-nrjofre\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+D:\Documentos\GitHub\laboratorio-08-nrjofre\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\laboratorio-08-nrjofre\Lab8\Lab8\obj\Debug\Lab8.exe
+D:\Documentos\GitHub\laboratorio-08-nrjofre\Lab8\Lab8\obj\Debug\Lab8.pdb
+D:\Documentos\GitHub\laboratorio-08-nrjofre\Lab8\Lab8\obj\Debug\Lab8.Form2.resources
